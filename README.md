@@ -24,7 +24,7 @@ Please describe your task to me, or type exit to exit.
 exit
 ```
 
-The resulting script is simple but would have taken me about 30 minutes to make after parsing documentation to find the right plot type and parameters. Here using DataGPT it took about 2 minutes to carry out my vision.
+The resulting script is simple but would have taken me about 30 minutes to make after parsing documentation to find the right plot type and parameters. Using DataGPT, it took about 2 minutes to describe my visiion for a plot and get a figure.
 ```
 import pandas as pd
 import matplotlib.pyplot as plt
